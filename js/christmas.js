@@ -1,4 +1,9 @@
-
+	/**
+		Profile:表白时间和打字机等效果配置文件;
+		Author: Blumer;
+		Date: 2019年8月6日;
+		Email: geekclouds@163.com;
+	*/
     $("#curs").click(function(){
         var str = '「陆晴」，我喜欢你\n';
         str += '我知道我不会甜言蜜语\n';
@@ -10,21 +15,20 @@
         str += '目光所至\n';
         str += '都是\n';
         str += '你';
-
         Printer.init(str, {
             //speed: 90,  //文字速度
             selector: 'canvas',
             //lnStr: 'root@demo ~/ # ',
             //"curSpeed" : 50,
-            "speed" : 150,  //文字速度
+            "speed" : 400,  //文字速度
             // "selector" : 'canvas', //选择器
             // "startIndex" : 0,   //从第几个字符开始打印
             // "endIndex" : 0,    //打印到第几个字符结束
-            "hasCur" : false,   //是否显示光标
+            "hasCur" : true,   //是否显示光标
             // "curId" : 'cur',   //光标的ID
             // "curStr" : '_', //光标字符
             // "curStyle" : 'font-weight: bold;',  //光标的样式（CSS样式）
-            // "curSpeed" : 100, //光标速度（ms）
+            "curSpeed" : 800, //光标速度（ms）
             // "lnStr": "" //行首字符
         }).print();
         $("#curs").attr("disabled","disabled");
