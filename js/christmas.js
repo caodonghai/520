@@ -5,7 +5,7 @@
 		Email: geekclouds@163.com;
 	*/
     $("#curs").click(function(){
-        var str = '「陆晴」，我喜欢你\n';
+        var str = '「颖」，我喜欢你\n';
         str += '我知道我不会甜言蜜语\n';
         str += '但是我会用行动证明一切\n';
         str += '我相信，陪伴是最好的誓言\n';
