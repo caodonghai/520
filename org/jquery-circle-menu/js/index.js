@@ -31,6 +31,7 @@ $('#1').click(function(e) {
 });
 $('#2').click(function(e) {
     window.location.href="./index_romantic.html";
+    alert('还在努力中')
 });
 
 

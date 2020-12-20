@@ -48,7 +48,7 @@
         var oHours = document.getElementById("t_h");
         var oMinutes = document.getElementById("t_m");
         var oSeconds = document.getElementById("t_s");
-        var date1=new Date("Tus Dec 25 2018 00:00:00 GMT+0800"); //开始时间
+        var date1=new Date("2020-12-01"); //开始时间
         var date2=new Date(); //结束时间
         console.log(date2);
         var date3=date2.getTime()-date1.getTime() ;//时间差的毫秒数
