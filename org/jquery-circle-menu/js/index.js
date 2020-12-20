@@ -30,8 +30,9 @@ $('#1').click(function(e) {
     window.location.href="./index_christmas.html";
 });
 $('#2').click(function(e) {
-    window.location.href="./index_romantic.html";
     alert('还在努力中')
+    return
+    window.location.href="./index_romantic.html";
 });
 
 
