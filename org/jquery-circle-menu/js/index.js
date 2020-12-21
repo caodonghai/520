@@ -30,7 +30,7 @@ $('#1').click(function(e) {
     window.location.href="./index_christmas.html";
 });
 $('#2').click(function(e) {
-    alert('还在努力中')
+    alert('还未对宝宝开放噢0.0')
     return
     window.location.href="./index_romantic.html";
 });
