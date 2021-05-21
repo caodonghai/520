@@ -34,6 +34,9 @@ $('#2').click(function(e) {
     return
     window.location.href="./index_romantic.html";
 });
+$('#3').click(function(e) {
+    window.location.href="./20210520/index.html";
+});
 
 
 setTimeout(function() { toggleOptions('.selector'); }, 100);
