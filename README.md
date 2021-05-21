@@ -39,22 +39,6 @@
 2. Printer.init({}).print();
 3. all config see -> /js/* --my custom js
 
-#### 成功展示
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/160654_2dddf49c_2215545.png "_F__Paragram%20Life_projects_HTML_express_index.html.png")
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/160720_11692c29_2215545.png "_F__Paragram%20Life_projects_HTML_express_index_romantic.html.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/161405_d4239647_2215545.png "_F__Paragram%20Life_projects_HTML_express_index_romantic.html (1).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/161420_de6a9c15_2215545.png "_F__Paragram%20Life_projects_HTML_express_index_romantic.html (2).png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/160729_c10c4307_2215545.png "_F__Paragram%20Life_projects_HTML_express_index_christmas.html.png")
-
-#### 在线浏览
-
-
-- 蓝默空间官方站点： [express.blumer.cn](http://express.blumer.cn)
-
-
-
 #### 参与贡献
 
 1. Fork 本仓库
